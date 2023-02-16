@@ -1,0 +1,13 @@
+.table1 {
+  border-color: rgb(0, 0, 0);
+  padding: 0.5cm;
+  border-width: 1mm;
+  border-style: dashed;
+}
+
+.table_headings {
+  border-color: black;
+  padding: 0.5cm;
+  border-width: 1mm;
+  border-style: solid;
+}

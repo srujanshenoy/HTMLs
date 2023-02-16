@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+cssheading {
+  color: rgb(48, 48, 236);
+  font-size: 35px;
+}
+
+bcssheading {
+  font-size: 30px;
+}
+
+normheader {
+  font-size: 30px;
+  color: yellowgreen;
+}
+
+normtext {
+  font-size: 30px;
+  color: palevioletred;
+}
+
+table,
+th,
+td {
+  border: 1px solid #000;
+  margin: 15px
+}
+
+select {
+  width: fit-content;
+  height: fit-content;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+
+h1 {
+  font-size: 66px;
+}
+
+testxt {
+  font-size: 25px;
+}
+
+a,
+button {
+  text-decoration: none;
+  color: rgb(48, 48, 236);
+  border-radius: 10px;
+  width: fit-content;
+  height: fit-content;
+  box-shadow: 0px 10px 30px 5px rgba(0, 0, 0, .30);
+  font-size: 30px;
+}
+
+select option {
+  margin: 0px;
+  color: #fff;
+}
+
+table {
+  width: 1200px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px 5px rgba(0, 0, 0, .30);
+  background-color: aliceblue;
+  margin: 25px auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+th,
+td {
+  padding: 20px;
+  width: 600px;
+  font-size: 29px;
+  height: 70px;
+}
+
+table th {
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin: 50px;
+}
+
+
+td {
+  color: burlywood
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #24252A;
+  text-align: center;
+}
